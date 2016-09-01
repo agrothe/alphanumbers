@@ -1,0 +1,15 @@
+{
+  "name": "alphanumbers",
+  "version": "0.1.0",
+  "description": "Converts numbers into alphabetical strings, and back again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "agrothe@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
