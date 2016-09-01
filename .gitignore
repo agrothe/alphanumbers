@@ -1,4 +1,10 @@
 node_modules/
+*.editorconfig
+*.eslint
+*.eslintignore
+*.eslintrc
+*.eslintrc.json
+*.vscode/
 
 #################
 ## Eclipse
