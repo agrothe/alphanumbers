@@ -33,3 +33,5 @@ var str = alphanum.replaceAll('x','x','xyz',false);
 
 
 Currently 125 tests are passing.
+
+http://semver.org/
