@@ -2,6 +2,22 @@
   "name": "alphanumbers",
   "version": "0.1.0",
   "description": "Converts numbers into alphabetical strings, and back again.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrothe/alphanumbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agrothe/alphanumbers/issues"
+  },
+  "keywords": [
+    "alphanumeric",
+    "alpha",
+    "numeric",
+    "number",
+    "character",
+    "replace-all",
+    "substitution"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha"
