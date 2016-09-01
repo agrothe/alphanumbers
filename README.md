@@ -1,4 +1,4 @@
-https://travis-ci.org/agrothe/alphanumbers.svg?branch=master
+!(https://travis-ci.org/agrothe/alphanumbers.svg?branch=master)
 
 # alphanumbers
 Converts numbers to alphabetical strings and back.
