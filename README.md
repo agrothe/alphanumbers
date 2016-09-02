@@ -7,6 +7,10 @@ Because I don't like to use numbers in URL paths, this nodejs module converts th
 
 **This is NOT a cryptographic module.** Please don't use it as such.
 
+## Intended Use
+
+This library is intended to convert numbers to characters and back for **display only**. Please use caution if storing the results as subsequent versions may change the character conversion sets.
+
 ## Example
 
 Converts 11121314 to HAQhW.
