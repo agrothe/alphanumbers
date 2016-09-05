@@ -1,6 +1,6 @@
 {
   "name": "alphanumbers",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Converts numbers into alphabetical strings, and back again.",
   "repository": {
     "type": "git",
