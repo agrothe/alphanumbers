@@ -36,6 +36,12 @@ var str = alphanum.replaceAll('x','x','xyz',false);
 // str = xyz
 ```
 
+## Contribute
+Fork and send pull request! Please observe the following:
+
+- Pure alphabetical substitution is preferred.
+- Any sort of statistical analysis for better number shorting much appreciated
+- Additional unit tests wanted
 
 
 Currently 125 tests are passing.
